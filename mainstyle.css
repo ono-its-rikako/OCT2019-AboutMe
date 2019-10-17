@@ -1,0 +1,70 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:white;
+    font-family: 'Barlow', sans-serif;
+}
+header{
+    background-color:rgb(36, 33, 48);
+    color:white;
+    padding: 5px 20px 30px 20px;
+    line-height: 1%;
+}
+section{
+    text-align: center;
+}
+nav{
+    color:white;
+    border: 0;
+    padding:0;
+}
+div{
+    width: 75%;
+    margin: auto;
+    box-shadow: 10px 10px black;
+    border: 1px solid;
+    border-top-color: grey;
+    border-left-color: grey;
+    border-bottom-color: white;
+    border-right-color: white;
+    margin-top: 30px;
+    padding: 15px 20px 30px 20px;
+}
+#idphoto{
+    width: 10%;
+    float: left;
+    border: 20px solid rgba(255, 255, 255, 0);
+}
+h1{
+    color:white;
+ text-transform: uppercase;
+font-size: 100px;
+margin-top:5%;
+padding: 0;
+}
+h2{
+    color: rgb(36, 33, 48);
+    font-size: 50px;
+    line-height: 1%;
+}
+h3{
+    font-size:35px;
+    line-height: 2%;
+    color: black;
+}
+h4{
+    font-size: 25px;
+    color: rgb(125, 126, 131);
+}
+p{
+    font-size: 18px;
+    line-height: 50%;
+}
+a{
+    text-decoration:none;
+    color: inherit;
+}
+.drawings{
+    width: 75%;
+    margin-bottom:10%;
+}
